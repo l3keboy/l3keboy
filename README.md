@@ -7,5 +7,4 @@
    - 🧩 Internship at Isah Business Software
    - 🧩 Internship at Cubics 
 - 👯 I’m looking to collaborate on **Python projects**!
-- 🏢 Looking for work (preferably Microsoft Azure)
 - 📫 How to reach me: ***https://www.linkedin.com/in/luke-h-421515225***
