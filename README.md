@@ -5,6 +5,7 @@
 - 🔙 Also worked with: **Go**, **C++**, **Bash**, **Nuxt**, **SwiftUI**
 - 🎓 I have gruaduated from **Fontys Hogescholen** in Tilburg/Eindhoven the Netherlands where I studied **HBO-ICT**!
    - 🧩 Internship at Isah Business Software
-   - 🧩 Internship at Cubics 
+   - 🧩 Internship at Cubics
+- 🗄️ Working @ CZ
 - 👯 I’m looking to collaborate on **Python projects**!
 - 📫 How to reach me: ***https://www.linkedin.com/in/luke-h-421515225***
