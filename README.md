@@ -7,5 +7,5 @@
    - 🧩 Internship at Isah Business Software
    - 🧩 Internship at Cubics
 - 🗄️ Working @ CZ
-- 👯 I’m looking to collaborate on **Python projects**!
+- 👯 I’m looking to collaborate on **projects**!
 - 📫 How to reach me: ***https://www.linkedin.com/in/luke-h-421515225***
