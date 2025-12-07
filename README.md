@@ -1,11 +1,11 @@
-### Hi there 👋, I am Luke!
-- 👨‍💻 Developer of ***https://husqy.xyz/***
-- 🌐 My website: ***https://lukehendriks.net/***
-- 🌱 I’m currently working with different languages: **Python**, **ReactJS**, **HTML/CSS**, **JavaScript**, **(Azure) Powershell**, **Azure ARM**, **Azure Bicep** and **C#** 
-- 🔙 Also worked with: **Go**, **C++**, **Bash**, **Nuxt**, **SwiftUI**
+### Hi there <a href="https://lukehendriks.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, I am Luke!
+- 👨‍💻 Developer of the [Husqy Discord bot](https://husqy.xyz/)
+- 🌐 My website: [click here!](https://lukehendriks.net/)
+- 🌱 I’m currently working with different languages: **Python**, **NextJS**, **JavaScript**,  **Azure ARM**, **Azure Bicep** and **C#** 
+- 🔙 Also worked with: **Go**, **(Azure) Powershell**, **Bash**, **Nuxt**, **SwiftUI**, **React** and **HTML/CSS**
 - 🎓 I have gruaduated from **Fontys Hogescholen** in Tilburg/Eindhoven the Netherlands where I studied **HBO-ICT**!
    - 🧩 Internship at Isah Business Software
    - 🧩 Internship at Cubics
-- 🗄️ Working @ CZ
+- 🗄️ Currently working @ CZ
 - 👯 I’m looking to collaborate on **projects**!
-- 📫 How to reach me: ***https://www.linkedin.com/in/luke-h-421515225***
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-h-421515225) or [My website](https://lukehendriks.net/)
