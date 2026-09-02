@@ -1,8 +1,7 @@
 ### Hi there <a href="https://lukehendriks.net/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>, I am Luke!
 - 👨‍💻 Developer of the [Husqy Discord bot](https://husqy.xyz/)
 - 🌐 My website: [click here!](https://lukehendriks.net/)
-- 🌱 I’m currently working with different languages: **Python**, **NextJS**, **JavaScript**,  **Azure ARM**, **Azure Bicep** and **C#** 
-- 🔙 Also worked with: **Go**, **(Azure) Powershell**, **Bash**, **Nuxt**, **SwiftUI**, **React** and **HTML/CSS**
+- 🌱 I’m currently working with different languages: **C#/.NET**, **Next.js**, **JavaScript**, **Azure native solutions (functions, key vault, etc.)**, **Azure ARM**, **Azure Bicep**
 - 🎓 I have gruaduated from **Fontys Hogescholen** in Tilburg/Eindhoven the Netherlands where I studied **HBO-ICT**!
    - 🧩 Internship at Isah Business Software
    - 🧩 Internship at Cubics
